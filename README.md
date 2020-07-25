@@ -8,16 +8,16 @@
   <a href="https://www.npmjs.com/package/vue"><img src="https://img.shields.io/npm/l/vue.svg?sanitize=true" alt="License"></a>
   <a href="https://chat.vuejs.org/"><img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?sanitize=true" alt="Chat"></a>
   <br>
-  <a href="https://app.saucelabs.com/builds/50f8372d79f743a3b25fb6ca4851ca4c"><img src="https://app.saucelabs.com/buildstatus/vuejs" alt="Build Status"></a>
+  <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova"><img src="https://app.saucelabs.com/buildstatus/vuejs" alt="Build Status"></a>
 </p>
 
 <h2 align="center">Supporting Vue.js</h2>
 
 Vue.js is an MIT-licensed open source project with its ongoing development made possible entirely by the support of these awesome [backers](https://github.com/vuejs/vue/blob/dev/BACKERS.md). If you'd like to join them, please consider:
 
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/evanyou).
-- [Become a backer or sponsor on Open Collective](https://opencollective.com/vuejs).
-- [One-time donation via PayPal or crypto-currencies.](https://vuejs.org/support-vuejs/#One-time-Donations)
+- [Become a backer or sponsor on Patreon](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
+- [Become a backer or sponsor on Open Collective](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
+- [One-time donation via PayPal or crypto-currencies.](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 
 #### What's the difference between Patreon and OpenCollective?
 
@@ -27,7 +27,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 <!--special start-->
 
 <p align="center">
-  <a href="https://autocode.com" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
     <img width="260px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/autocode.svg?sanitize=true">
   </a>
 </p>
@@ -41,29 +41,29 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://vueschool.io/?utm_source=Vuejs.org&utm_medium=Banner&utm_campaign=Sponsored%20Banner&utm_content=V1" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vueschool.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://vehikl.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vehikl.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://retool.com/?utm_source=sponsor&utm_campaign=vue" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/retool.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://passionatepeople.io/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/passionate_people.png">
         </a>
       </td>
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.storyblok.com" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/storyblok.png">
         </a>
       </td>
@@ -78,7 +78,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="http://www.dcloud.io/?hmsr=vuejsorg&hmpl=&hmcu=&hmkw=&hmci=" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="177px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/dcloud.gif">
         </a>
       </td>
@@ -94,123 +94,123 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.vuemastery.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuemastery.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://laravel.com" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/laravel.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://htmlburger.com" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/html_burger.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.frontenddeveloperlove.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/frontendlove.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://onsen.io/vue/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/onsen_ui.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://neds.com.au/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/neds.png">
         </a>
       </td>
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://icons8.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/icons_8.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://vuejobs.com/?ref=vuejs" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vuejobs.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://tidelift.com/subscription/npm/vue" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/tidelift.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.firesticktricks.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/firestick_tricks.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://intygrate.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/intygrate.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://en.shopware.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/shopware_ag.png">
         </a>
       </td>
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.vpnranks.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/vpnranks.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.bacancytechnology.com/hire-vuejs-developer" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bacancy_technology.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.bestvpn.co/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/bestvpn_co.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.y8.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/y8.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://js.devexpress.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/devexpress.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://fastcoding.jp/javascript/ " target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true">
         </a>
       </td>
     </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://usave.co.uk/utilities/broadband" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/usave.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://www.pullrequest.com" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/pullrequest.svg?sanitize=true">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.vuescreencasts.com/" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/happy_programmer_llc.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.primefaces.org/primevue" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/primevue.png">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://cooltechzone.com/netflix-vpn" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank">
           <img width="148px" src="https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/netflix_vpn.png">
         </a>
       </td>
@@ -219,20 +219,20 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 </table>
 <!--gold end-->
 
-<h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
+<h3 align="center">Sponsors via <a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova">Open Collective</a></h3>
 
 <h4 align="center">Platinum</h4>
 
-<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
-<a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg?sanitize=true"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/1/avatar.svg?sanitize=true"></a>
 
 <h4 align="center">Gold</h4>
 
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/0/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/0/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/1/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/1/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/2/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/2/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/3/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/3/avatar.svg?sanitize=true" height="60px"></a>
-<a href="https://opencollective.com/vuejs/tiers/gold-sponsors/4/website" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/4/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/0/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/1/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/2/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/3/avatar.svg?sanitize=true" height="60px"></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova" target="_blank" rel="noopener noreferrer"><img src="https://opencollective.com/vuejs/tiers/gold-sponsors/4/avatar.svg?sanitize=true" height="60px"></a>
 
 ---
 
@@ -242,7 +242,7 @@ Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for buildin
 
 #### Browser Compatibility
 
-Vue.js supports all browsers that are [ES5-compliant](http://kangax.github.io/compat-table/es5/) (IE8 and below are not supported).
+Vue.js supports all browsers that are [ES5-compliant](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) (IE8 and below are not supported).
 
 ## Ecosystem
 
@@ -286,37 +286,37 @@ Vue.js supports all browsers that are [ES5-compliant](http://kangax.github.io/co
 
 ## Documentation
 
-To check out [live examples](https://vuejs.org/v2/examples/) and docs, visit [vuejs.org](https://vuejs.org).
+To check out [live examples](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) and docs, visit [vuejs.org](https://vuejs.org).
 
 ## Questions
 
-For questions and support please use [the official forum](http://forum.vuejs.org) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
+For questions and support please use [the official forum](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) or [community chat](https://chat.vuejs.org/). The issue list of this repo is **exclusively** for bug reports and feature requests.
 
 ## Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/vuejs/vue/releases).
+Detailed changes for each release are documented in the [release notes](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
 
 ## Stay In Touch
 
-- [Twitter](https://twitter.com/vuejs)
-- [Blog](https://medium.com/the-vue-point)
-- [Job Board](https://vuejobs.com/?ref=vuejs)
+- [Word Search Puzzle ](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
+- [Word Search Puzzle Game](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
+- [Infinite Word Search Puzzle](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 
 ## Contribution
 
-Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md) before making a pull request. If you have a Vue-related project/component/tool, add it with a pull request to [this curated list](https://github.com/vuejs/awesome-vue)!
+Please make sure to read the [Contributing Guide](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) before making a pull request. If you have a Vue-related project/component/tool, add it with a pull request to [this curated list](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)!
 
 Thank you to all the people who already contributed to Vue!
 
-<a href="https://github.com/vuejs/vue/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
+<a href="https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
 
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 
 Copyright (c) 2013-present, Yuxi (Evan) You
